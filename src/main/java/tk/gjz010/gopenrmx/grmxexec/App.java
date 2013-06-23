@@ -1,4 +1,4 @@
-package tk.gjz010.grmxexec;
+package tk.gjz010.gopenrmx.grmxexec;
 
 /**
  * Hello world!
